@@ -31,6 +31,13 @@ const albumsSongs = [
             { id: 4, name: "song4", price: 40 },
             { id: 5, name: "song5", price: 50 },
         ]
+    },
+    {
+        album: { id: 3, name: "album3" },
+        songs: [
+            { id: 6, name: "song6", price: 60 },
+            { id: 7, name: "song7", price: 70 },
+        ]
     }
 ]
 
